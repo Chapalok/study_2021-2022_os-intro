@@ -5,13 +5,13 @@
 
 ***Дисциплина:*** *Операционные системы*
 
-***Работу выполняла:*** *Арежина Адриана*
+***Работу выполняла:*** *Сироджиддинов Камолиддин*
 
-***№ ст. билета:*** *1032201674*
+***№ ст. билета:*** *1032205327*
 
-***Группа:*** *НКНбд-01-20*
+***Группа:*** *НКНбд-01-21*
 
-***Москва. 2021г.***
+***Москва. 2022г.***
 
 
 ## Цель работы
@@ -63,62 +63,61 @@
 
 ## Выполнение работы
 
-1. Выполнила следующие действия:
+1. Выполнил следующие действия:
 
-- Скопировала файл /usr/include/sys/io.txt в домашний каталог и назвала
-  его equipment (см. рисунок ниже [копирование](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/1.JPG)).
-  ![копирование](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/1.JPG)
-- В домашнем каталоге создала директорию ~/ski.plases (см. рисунок ниже [ski.plases](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/2.JPG)).
-  ![ski.plases](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/2.JPG)
-- Переместила файл equipment в каталог ~/ski.plases (см. рисунок ниже [перемещение](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/3.JPG)).
-  ![перемещение](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/3.JPG)
-- Переименовала файл ~/ski.plases/equipment в ~/ski.plases/equiplist (см. рисунок ниже [переименовала](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/4.JPG)).
-  ![переименовала](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/4.JPG)
-- Создала в домашнем каталоге файл abc1 и скопировала его в каталог ~/ski.plases, назвала его equiplist2 (см. рисунок ниже [abc1](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/5.JPG)).
-  ![abc1](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/5.JPG)
+- Скопировал файл /usr/include/sys/io.txt в домашний каталог и назвала его equipment 
+  ![копирование](https://raw.githubusercontent.com/Chapalok/study_2021-2022_os-intro/master/labs/lab05/report/image/2022-05-05_22-51-16.png)
+- В домашнем каталоге создал директорию ~/ski.plases
+  ![ski.plases](https://raw.githubusercontent.com/Chapalok/study_2021-2022_os-intro/master/labs/lab05/report/image/2022-05-05_22-54-14.png)
+- Переместил файл equipment в каталог ~/ski.plases (см. рисунок ниже 
+  ![перемещение](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_22-56-05.png?raw=true)
+- Переименовал файл ~/ski.plases/equipment в ~/ski.plases/equiplist 
+  ![переименовала](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_22-58-27.png?raw=true)
+- Создал в домашнем каталоге файл abc1 и скопировал его в каталог ~/ski.plases, назвала его equiplist2 (см. рисунок ниже 
+  ![abc1](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-01-12.png?raw=true)
 - Создала каталог с именем equipment в каталоге ~/ski.plases.
-- Переместила файлы ~/ski.plases/equiplist и equiplist2 в каталог
-  ~/ski.plases/equipment (см. рисунок ниже [equipment](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/6.JPG)).
-  ![equipment](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/6.JPG)
-- Создала и переместила каталог ~/newdir в каталог ~/ski.plases и назвала его plans (см рисунок ниже [newdir](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/7.JPG)).
-  ![newdir](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/7.JPG)
+- Переместил файлы ~/ski.plases/equiplist и equiplist2 в каталог
+  ~/ski.plases/equipment 
+  ![equipment](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-03-04.png?raw=true)
+- Создал и переместил каталог ~/newdir в каталог ~/ski.plases и назвал его plans
+  ![newdir](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-05-00.png?raw=true)
 
-3. Определила опции команды chmod, необходимые для того, чтобы присвоить перечисленным ниже файлам выделенные права доступа, считая, что в начале таких прав нет:
+1. Определил опции команды chmod, необходимые для того, чтобы присвоить перечисленным ниже файлам выделенные права доступа, считая, что в начале таких прав нет:
 
-- drwxr--r-- ... australia (см. рисунок ниже [australia](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/8.JPG))
-  ![australia](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/8.JPG)
-- drwx--x--x ... play (см. рисунок ниже [play](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/9.JPG))
-  ![play](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/9.JPG)
-- -r-xr--r-- ... my_os (см. рисунок ниже [my_os](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/10.JPG))
-  ![my_os](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/10.JPG)
-- -rw-rw-r-- ... feathers (см. рисунок ниже [feathers](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/11.JPG))
-  ![feathers](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/11.JPG)
+- drwxr--r-- ... australia 
+  ![australia](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-06-50.png?raw=true)
+- drwx--x--x ... play
+  ![play](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-08-13.png?raw=true)
+- -r-xr--r-- ... my_os
+  ![my_os](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-10-01.png?raw=true)
+- -rw-rw-r-- ... feathers
+  ![feathers](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-11-14.png?raw=true)
 
-4. Проделала приведённые ниже упражнения, записывая в отчёт по лабораторной работе используемые при этом команды:
+1. Проделал приведённые ниже упражнения, записывая в отчёт по лабораторной работе используемые при этом команды:
 
-- Скопировала файл ~/feathers в файл ~/file.old (см. рисунок ниже [copy](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/12.JPG)).
-  ![copy](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/12.JPG)
-- Переместила файл ~/file.old в каталог ~/play(см. рисунок ниже [file.old](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/13.JPG)).
-  ![file.old](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/13.JPG)
-- Скопировала каталог ~/play в каталог ~/fun(см. рисунок ниже [copy2](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/14.JPG)).
-  ![copy2](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/14.JPG)
-- Переместила каталог ~/fun в каталог ~/play и назвала его games(см. рисунок ниже [mv](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/15.JPG)).
-  ![mv](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/15.JPG)
-- Лишила владельца файла ~/feathers права на чтение (см. рисунок ниже [user](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/16.JPG)).
-  ![user](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/16.JPG)
-- Не получилось просмотреть файл ~/feathers командой cat (см. рисунок ниже [cat](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/17.JPG)).
-  ![cat](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/17.JPG)
-- Не получилось скопировать файл ~/feathers (см. рисунок ниже [cp](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/18.JPG)).
-  ![cp](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/18.JPG)
-- Дала владельцу файла ~/feathers право на чтение (см. рисунок ниже [usr](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/19.JPG)).
-  ![usr](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/19.JPG)
-- Лишите владельца каталога ~/play права на выполнение (см. рисунок ниже [ow](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/20.JPG)).
-  ![ow](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/20.JPG)
+- Скопировал файл ~/feathers в файл ~/file.old
+  ![copy](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-13-51.png?raw=true)
+- Переместил файл ~/file.old в каталог ~/play 
+  ![file.old](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-15-39.png?raw=true)
+- Скопировал каталог ~/play в каталог ~/fun
+  ![copy2](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-17-37.png?raw=true)
+- Переместил каталог ~/fun в каталог ~/play и назвал его games
+  ![mv](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-19-44.png?raw=true)
+- Лишил владельца файла ~/feathers права на чтение
+  ![user](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-21-39.png?raw=true)
+- Не получилось просмотреть файл ~/feathers командой cat
+  ![cat](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-24-19.png?raw=true)
+- Не получилось скопировать файл ~/feathers
+  ![cp](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-26-23.png?raw=true)
+- Дал владельцу файла ~/feathers право на чтение
+  ![usr](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-27-55.png?raw=true)
+- Лишите владельца каталога ~/play права на выполнение 
+  ![ow](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-29-40.png?raw=true)
 - НЕ получилось перейти в каталог ~/play.
-- Дала владельцу каталога ~/play право на выполнение (см. рисунок ниже [pl](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/21.JPG)).
-  ![pl](https://github.com/Adriana-Arezhina/Lab/blob/main/Lab06/pict/21.JPG)
+- Дал владельцу каталога ~/play право на выполнение 
+  ![pl](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_23-32-51.png?raw=true)
 
-5. Прочитала man по командам mount, fsck, mkfs, kill.
+1. Прочитал man по командам mount, fsck, mkfs, kill.
    Это команды для работы с файловой системой.
    Команда mount используется для подключения (монтирования) файловых систем и переносных накопителей.
    fsck проверяет файловую систему и исправляет в одной или нескольких файловых системах Linux.
@@ -182,4 +181,4 @@
 
 ## Вывод
 
-Я ознакомилась с файловой системой Linux, её структурой, именами и содержанием каталогов, приобрела практические навыки по применению команд для работы с файлами и каталогами, по управлению процессами (и работами), по проверке использования диска и обслуживанию файловой системы.
+Я ознакомился с файловой системой Linux, её структурой, именами и содержанием каталогов, приобрел практические навыки по применению команд для работы с файлами и каталогами, по управлению процессами (и работами), по проверке использования диска и обслуживанию файловой системы.
