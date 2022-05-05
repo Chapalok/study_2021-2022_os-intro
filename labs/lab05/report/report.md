@@ -69,7 +69,7 @@
   ![копирование](https://raw.githubusercontent.com/Chapalok/study_2021-2022_os-intro/master/labs/lab05/report/image/2022-05-05_22-51-16.png)
 - В домашнем каталоге создал директорию ~/ski.plases
   ![ski.plases](https://raw.githubusercontent.com/Chapalok/study_2021-2022_os-intro/master/labs/lab05/report/image/2022-05-05_22-54-14.png)
-- Переместил файл equipment в каталог ~/ski.plases (см. рисунок ниже 
+- Переместил файл equipment в каталог ~/ski.plases 
   ![перемещение](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_22-56-05.png?raw=true)
 - Переименовал файл ~/ski.plases/equipment в ~/ski.plases/equiplist 
   ![переименовала](https://github.com/Chapalok/study_2021-2022_os-intro/blob/master/labs/lab05/report/image/2022-05-05_22-58-27.png?raw=true)
